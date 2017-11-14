@@ -97,6 +97,7 @@
         "drupal/select_or_other": "1.*",
         "drupal/smtp": "1.*",
         "drupal/superfish": "1.*",
+        "mehrpadin/superfish": "*",
         "drupal/token": "1.*",
         "drupal/video_embed_field": "1.*",
         "drupal/xmlsitemap": "1.*"
@@ -108,7 +109,8 @@
     "prefer-stable": true,
     "config": {
         "optimize-autoloader": true,
-        "sort-packages": true
+        "sort-packages": true,
+        "secure-http": false
     },
     "autoload": {
         "classmap": [

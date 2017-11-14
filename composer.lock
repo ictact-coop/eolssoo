@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "e630d5adf1e1d461904f326fbdb1d40c",
+    "content-hash": "c81b8f6de19a95c59fa8023ea2d2060e",
     "packages": [
         {
             "name": "alchemy/zippy",
@@ -1166,7 +1166,7 @@
             "support": {
                 "source": "http://cgit.drupalcode.org/addtocopy"
             },
-            "time": "2016-05-04 06:43:47"
+            "time": "2016-05-04T06:43:47+00:00"
         },
         {
             "name": "drupal/asset_injector",
@@ -1409,7 +1409,7 @@
             "support": {
                 "source": "http://cgit.drupalcode.org/ckeditor_widgets"
             },
-            "time": "2016-09-02 06:39:25"
+            "time": "2016-09-02T06:39:25+00:00"
         },
         {
             "name": "drupal/colorbutton",
