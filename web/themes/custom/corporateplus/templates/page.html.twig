@@ -70,23 +70,6 @@
  * @see html.html.twig
  */
 #}
-{% if page.slideout %}
-  {# slideout #}
-  <div class="clearfix slideout {{ slideout_background_color }}{{ (slideout_blocks_paddings) ? ' region--no-block-paddings' : '' }}{{ (slideout_region_paddings) ? ' region--no-paddings' : '' }}">
-    {# slideout__container #}
-    <div class="clearfix slideout__container">
-      <div class="slideout__section">
-        {{ page.slideout }}
-      </div>
-    </div>
-    {# EOF:slideout__container #}
-  </div>
-  {# EOF: slideout #}
-
-  {# EOF: slideout-toggle #}
-  <button class="slideout-toggle slideout-toggle--fixed"><i class="fa fa-bars"></i></button>
-  {# EOF: slideout-toggle #}
-{% endif %}
 
 {# page-container #}
 <div class="page-container">
