@@ -100,7 +100,8 @@
         "mehrpadin/superfish": "*",
         "drupal/token": "1.*",
         "drupal/video_embed_field": "1.*",
-        "drupal/xmlsitemap": "1.*"
+        "drupal/xmlsitemap": "1.*",
+        "drupal/recaptcha": "2.*"
     },
     "conflict": {
         "drupal/drupal": "*"
